@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a99b4091-f0da-4d6b-90ce-3cba16af6cac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fc99YjY9WEnudujPCXgjtVZpI9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a99b4091-f0da-4d6b-90ce-3cba16af6cac" name="Default Changelist" comment="" />
+      <created>1596506371664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596506371664</updated>
+      <workItem from="1596506376464" duration="26482000" />
+      <workItem from="1596592000768" duration="29706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1198" y="486" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596615106846">
+      <screen x="0" y="150" width="1920" height="890" />
+    </state>
+    <state x="1198" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1596531511448" />
+    <state x="1198" y="486" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.150.1920.890@0.150.1920.890" timestamp="1596615106846" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1596536527985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596536527985" />
+    <state x="461" y="240" key="SettingsEditor" timestamp="1596614304254">
+      <screen x="0" y="150" width="1920" height="890" />
+    </state>
+    <state x="461" y="240" key="SettingsEditor/0.150.1920.890@0.150.1920.890" timestamp="1596614304254" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1596594648151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596594648151" />
+  </component>
+</project>
